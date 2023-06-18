@@ -7,7 +7,7 @@
 - extra thicc 3V3 trace
 
 ## battery requirements
-DTP and TW battery will work flawlessly
+DTP103040 will work flawlessly
 - 51021 connector or JST-PH 2 pin connector
 - integrated over-discharge protection circuit
 
